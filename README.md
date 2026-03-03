@@ -1,0 +1,2 @@
+# TradingX.com
+trading game
